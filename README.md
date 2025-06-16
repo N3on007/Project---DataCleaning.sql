@@ -17,6 +17,7 @@ Project Structure
 data-cleaning-project/
 
 ├── data/
+
 │   ├── raw/       # Original, uncleaned datasets
 │   └── cleaned/   # Final cleaned datasets
 
