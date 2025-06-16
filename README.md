@@ -1,7 +1,10 @@
 # Project---DataCleaning.sql
 Data Cleaning Project with SQL
+
 Project Overview
+
 This project demonstrates comprehensive data cleaning techniques using SQL to transform raw, messy datasets into analysis-ready formats. The project addresses common data quality issues and provides reusable solutions for similar data preprocessing challenges.
+
 Objectives
 
 Clean and standardize raw datasets for analysis
