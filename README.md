@@ -15,9 +15,9 @@ Document the entire cleaning process for reproducibility
 
 Project Structure
 data-cleaning-project/
-├── data/
 
-│   ├── raw/                 # Original, uncleaned datasets
+├── data/
+│   ├── raw/       # Original, uncleaned datasets
 │   └── cleaned/   # Final cleaned datasets
 
 ├── sql/
@@ -31,6 +31,7 @@ data-cleaning-project/
 
 │   ├── data_dictionary.md       # Column definitions
 │   └── cleaning_log.md          # Issues found and resolved
+
 └── README.md
 
 🔧 Data Issues Addressed
